@@ -17,7 +17,7 @@
     "esModuleInterop": true, // allows default import for express, mongoose, etc.
 
     // For nodejs:
-    // "lib": ["esnext"],
+    "lib": ["dom","esnext"],
     // "types": ["node"],
     // and npm install -D @types/node
 
